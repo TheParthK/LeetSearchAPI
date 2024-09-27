@@ -56,8 +56,7 @@ Installation
 1.  Clone the repository:
     
     ```bash
-    git clone https://github.com/yourusername/leetcode-similarity-api.git
-    cd leetcode-similarity-api
+    git clone https://github.com/TheParthK/LeetSearchAPI.git
     ```
     
 2.  Install required Python packages:
